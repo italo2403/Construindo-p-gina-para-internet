@@ -1,1 +1,3 @@
 Bootstrap - É um Framework para desenvolver sites responsivos.
+Organização de acentuação - <meta charset="utf-8">
+Importar bootstrap do css - <link rel="stylesheet" type="text/css" href="Local do bootstrap">
